@@ -67,7 +67,7 @@ The goal of the project is to analyze data, find key features affecting life exp
 
 # Steps to Reproduce
 1. Clone this repo 
-2. Data can be also be acquired from [Databank](https://databank.worldbank.org/reports.aspx?source=world-development-indicators#), [WHO](https://www.who.int/data/gho/data/indicators)save a file as 'GHO.csv','CHE.csv','income.csv', and put the file into the cloned repo 
+2. Data can be also be acquired from [Databank](https://databank.worldbank.org/reports.aspx?source=world-development-indicators#), [WHO](https://www.who.int/data/gho/data/indicators), save a file as 'GHO.csv', 'CHE.csv', 'income.csv', and put the file into the cloned repo 
 2. Run notebook
 
 # Takeaways and Conclusions
@@ -81,7 +81,7 @@ The goal of the project is to analyze data, find key features affecting life exp
 
 # Recommendations 
 * recommend low income countries to run program to decrease infant deaths. There is higher number of infant deaths.
-* recommend to increase in expenses to health to rise life expectancy.
+* recommend to increase in expenses for health to rise life expectancy.
 
 
 
