@@ -1,7 +1,7 @@
-# Analyze Life Expectancy Data
+# Analyze Global Health Observatory (GHO) data
 
 # Project Description
-The goal of the project is to analyze Global Health Observatory (GHO)data from World Health Organization (WHO), create a model to predict life expectancy and provide recommendations to increase life expectancy.
+The goal of the project is to analyze Global Health Observatory (GHO) data from World Health Organization (WHO), create a model to predict life expectancy and provide recommendations to increase life expectancy.
 
 # Project Goals:
 * find features relation with life expectancy
